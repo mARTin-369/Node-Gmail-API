@@ -16,7 +16,7 @@ The application needs to be authorised first by the user to access the emails. T
 ### Request
 ![Authorise](screenshots/authorize.PNG)
 
-### Authorising aftr authenticating
+### Authorising after authenticating
 ![Authenticate](screenshots/authenticate.PNG)
 
 ### Response
