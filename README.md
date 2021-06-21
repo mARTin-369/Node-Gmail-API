@@ -11,7 +11,7 @@ After creating a project on Google Cloud Platform, enable Gmail API for the acco
 > node server.js
 
 ## Authorising the app
-The application needs to be authorised first by the user to access the emails. The user will need to signin to their account and allow access to gmail. Acess tokens are received once the application is authorised.
+The application needs to be authorised first by the user to access the emails. The user will need to signin to their account and allow access to gmail. Access tokens are received once the application is authorised.
 
 ### Request
 ![Authorise](screenshots/authorize.PNG)
