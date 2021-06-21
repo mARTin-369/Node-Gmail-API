@@ -5,7 +5,7 @@ Using Gmail API with Node.js for accessing emails
 > npm install
 
 ## Storing credentials
-After creating a project enable Gmail API for the account and create client credentials for using the API. Store the credentials in *client_secret.json* file
+After creating a project on Google Cloud Platform, enable Gmail API for the account and create client credentials for using the API. Store the credentials in *client_secret.json* file
 
 ## Running application
 > node server.js
