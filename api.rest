@@ -1,0 +1,10 @@
+GET http://localhost:3000/authorize-app HTTP/1.1
+Content-Type: application/json
+
+###
+
+GET http://localhost:3000/get-unread-emails HTTP/1.1
+Content-Type: application/json
+Access-Token: YOUR_ACCESS_TOKEN
+Refresh-Token: YOUR_REFRESH_TOKEN
+
